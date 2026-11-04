@@ -1,7 +1,7 @@
 # armamentarium-spearhead-data
 
 BattleScribe catalogue data for the fixed Spearhead boxes of Age of Sigmar, read by the
-[Armamentarium](https://github.com/LordTyberias/Armamentarium) project.
+[Armamentarium](https://github.com/Strecker-IT/Armamentarium) project.
 
 - `Spearhead.gst` — the game system: profile types, the categories, one force entry.
 - one `.cat` file per faction, each holding the units of that faction's Spearheads.
